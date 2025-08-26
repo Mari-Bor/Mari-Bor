@@ -64,13 +64,3 @@ Telegram Bot API, Voice/TTS, FastAPI, проектировании просты�
 Когда я не пишу код, я тестирую настолки — а иногда код помогает им говорить за ведущего.
 
 ---
-
-
-
-Hi! I’m **Marianna**, a developer who blends code, voice tech, and tabletop communities. I build Telegram bots, automate content, and make software speak human. Thoughtful, responsible, with a friendly sense of humor.
-
-* **Working on:** a SpeechKit-powered TTS Telegram bot, tools for tabletop session scheduling, and content automation.
-* **Stack:** Python, aiogram, FastAPI, SQLAlchemy, PostgreSQL, Redis, Docker, Poetry, pytest, GitHub Actions, Yandex SpeechKit.
-* **Looking to collaborate on:** bots, voice/AI services, community tools.
-* **Reach me:** @your\_handle • (mailto:Marianna8Borisovna@yandex.com)
-
